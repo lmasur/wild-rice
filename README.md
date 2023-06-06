@@ -14,7 +14,7 @@
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q46429" title="Guarani">
 <param ve-entity eid="Q155" title="Brazil">
-<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Zizania_palustris_%2820150198216%29.jpg"
+<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Zizania_palustris_%2820150198216%29.jpg"
        label="Wild rice growing in"
        description="Painting by Candido Lopez" 
        license="public domain" 
