@@ -20,7 +20,7 @@
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
 
-<param ve-image                           url="https://species.wikimedia.org/wiki/Zizania_palustris#/media/File:Plantarum_indigenarum_et_exoticarum_icones_ad_vivum_coloratae,_oder,_Sammlung_nach_der_Natur_gemalter_Abbildungen_inn-_und_ausl%C3%A4ndlischer_Pflanzen,_f%C3%BCr_Liebhaber_und_Beflissene_der_Botanik_(15904249577).jpg"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Plantarum_indigenarum_et_exoticarum_icones_ad_vivum_coloratae%2C_oder%2C_Sammlung_nach_der_Natur_gemalter_Abbildungen_inn-_und_ausl%C3%A4ndlischer_Pflanzen%2C_f%C3%BCr_Liebhaber_und_Beflissene_der_Botanik_%2815904249577%29.jpg"
        description="Photograph. Attribution. Institution."
        license="public domain"
        label="Drawing of a wild rice plant">
