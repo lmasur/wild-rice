@@ -3,7 +3,7 @@
 <param ve-config 
        title="Wild Rice"
        author="Lindi Masur"
-       source-image="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/d/d5/Zizania_palustris_macro.jpg"
        banner="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
        layout="vertical">
 
