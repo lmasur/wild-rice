@@ -23,8 +23,11 @@ Go to https://plants.jstor.org/ then search for your plant. Once you have chosen
 
 ## Imbedding something from Archive.org
 
-Archive.org has a lot of stuff to add.
-Biodiverdsitylibrary.org
-GoogleBooks
+Archive.org has a lot of stuff to add. Biodiverdsitylibrary.org also. and GoogleBooks
 
 <param ve-iframe src="https://archive.org/details/plantesusuellesd00sain/page/n14/mode/2up?view=theater&output=embed">
+
+
+## Making a timeline
+
+https://timeline.knightlab.com/ 
