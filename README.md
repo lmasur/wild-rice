@@ -21,3 +21,8 @@ The plant was first given its Western scientific name by French botanist Auguste
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588599">
 
+## Imbedding something from Archive.org
+
+Archive.org has a lot of stuff to add.
+
+<param ve-iframe src="https://archive.org/details/plantesusuellesd00sain/page/n14/mode/2up?view=theater&output=embed">
