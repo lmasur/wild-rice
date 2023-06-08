@@ -22,7 +22,7 @@ antioxidant, and antimicrobial properties that made it attractive to both the in
 Use Wikidata and the unique identifier to find a map. Or Go to GoogleMaps, left click, and copy coordinates. See below.
 
 <param ve-map center="36.144631251519826, -86.79027462424366" 
-       zoom=2>
+       zoom=6>
 
 ## Imbedding a plant specimen from JSTOR Global Plants 
 
