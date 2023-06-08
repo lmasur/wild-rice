@@ -17,12 +17,15 @@
 
 ## Location of Wild Rice species in North America
 
-antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a <span data-click-image-zoomto="212,231,462,467"> metallic straw</span>, or bombilla, <span data-mouseover-map-flyto="47.02648311927239, -78.2285113518421" Canada</span> shared by many people, passing from mouth to mouth. During the 19th century, the drink became associated with South American gauchos. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
+antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a <span data-click-image-zoomto="212,231,462,467"> metallic straw</span>, or bombilla, shared by many people, passing from mouth to mouth. During the 19th century, the drink became associated with South American gauchos. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
 Use Wikidata and the unique identifier to find a map. Or Go to GoogleMaps, left click, and copy coordinates. See below. You can have paragraph with different levels of Zoom, or different focal points, if you want to focus on different scales or areas. 
 
-<param ve-map center="36.144631251519826, -86.79027462424366" show-labels"
-       zoom=6>
+<param ve-map center="36.144631251519826, -86.79027462424366" show-labels zoom=6>
+                                                                          
+## Layers on a map
+                                                                          
+ Use geojson maps.   https://geojson.io/#new&map=2/0/20                                                                       
 
 ## Imbedding a plant specimen from JSTOR Global Plants 
 
